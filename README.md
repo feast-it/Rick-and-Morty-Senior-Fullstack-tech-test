@@ -27,7 +27,6 @@ Build a simple UI to list all Alive Rick characters using the basic wireframes p
 
 - Include Alive Morty characters (it is Rick and Morty at the end of the day - 😆)
 - Use path aliases
-- Introduce a build pipeline using Github CI / Circle CI or other CI tools.
 - Responsive images
 - Unit tests
 - Performance optimisation (add a cache layer)
