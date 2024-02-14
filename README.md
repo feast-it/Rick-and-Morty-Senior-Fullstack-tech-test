@@ -1,7 +1,7 @@
 # FullStack Tech Test
 
 ### The Challenge
-We would like you to build a “mini app” using the https://rickandmortyapi.com/  REST API, (please do not use the JavaScript library available). The app should consist of a “Character Listing” page and a single “Character Information” page. The challenge comes in two parts:
+We would like you to build a “mini app” using the https://rickandmortyapi.com/ REST API, (please do not use the JavaScript library available). The app should consist of a “Character Listing” page and a single “Character Information” page. The challenge comes in two parts:
 
 #### Part 1
 Create a custom rest API to pre-filter all required data needed for the frontend. The required data includes getting all Alive, Rick characters along with one or more of their associated data types Origin, Location and or Episode data.
